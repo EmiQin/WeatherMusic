@@ -1,0 +1,34 @@
+.surround {
+  color: #ffffff;
+  font-family: 'Quicksand', sans serif;
+  padding: 125px;
+  text-align: center;
+  font-weight: 1000%;
+  background-image: url('https://i.pinimg.com/originals/5f/cf/cb/5fcfcb3dbd6ae7ba8ef0be13865f726a.gif');
+  background-position: center center;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+p {
+  padding-top: 7%;
+  padding-bottom: 3%;
+  font-family: 'Quicksand', sans serif;
+  font-size: 150%;
+}
+
+body {
+  overflow-x: hidden;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-left: 5%;
+}
+
+.container {
+  font-family: 'Quicksand', sans serif;
+}
+
+.rectColor{
+  color:#ca80d9;
+  height: 30%;
+}
